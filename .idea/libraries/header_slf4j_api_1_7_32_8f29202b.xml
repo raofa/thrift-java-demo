@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="header_slf4j-api-1.7.32_8f29202b">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_fa.rao/fef59b445578566ee547378a53b6fb2f/execroot/__main__/bazel-out/darwin_arm64-fastbuild/bin/external/maven/v1/https/jcenter.bintray.com/org/slf4j/slf4j-api/1.7.32/header_slf4j-api-1.7.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

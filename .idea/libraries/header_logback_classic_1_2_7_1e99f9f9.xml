@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="header_logback-classic-1.2.7_1e99f9f9">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_fa.rao/fef59b445578566ee547378a53b6fb2f/execroot/__main__/bazel-out/darwin_arm64-fastbuild/bin/external/maven/v1/https/jcenter.bintray.com/ch/qos/logback/logback-classic/1.2.7/header_logback-classic-1.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

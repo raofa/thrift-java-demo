@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="header_libthrift-0.15.0_cad49b97">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_fa.rao/fef59b445578566ee547378a53b6fb2f/execroot/__main__/bazel-out/darwin_arm64-fastbuild/bin/external/maven/v1/https/jcenter.bintray.com/org/apache/thrift/libthrift/0.15.0/header_libthrift-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///private/var/tmp/_bazel_fa.rao/fef59b445578566ee547378a53b6fb2f/external/maven/v1/https/jcenter.bintray.com/org/apache/thrift/libthrift/0.15.0/libthrift-0.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
